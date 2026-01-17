@@ -14,10 +14,6 @@ dist/
 # Note: We keep placeholder files for TypeScript compilation
 # convex/_generated/
 
-# Media and cache directories
-media/
-cache/
-
 # Thumbnails
 thumbnails/
 
